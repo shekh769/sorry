@@ -34,7 +34,7 @@ gif.style.width = "400px";
     })
 
     noBtn.addEventListener("click", () => {
-      question.innerHTML = "Ak baar ar soch lo";
+      question.innerHTML = "Ak baar aur soch lo";
       gif.src = "images/sadlife.gif";
       yesBtn.innerHTML = "Chalo maan gai";
       noBtn.innerHTML = "Final no";
@@ -47,7 +47,7 @@ gif.style.width = "400px";
       });
 
       noBtn.addEventListener("click", () => {
-        question.innerHTML = "Manja nah! kitna bhav khayegi";
+        question.innerHTML = "Man jao na kitna bhav khaoge";
         gif.src = "images/run.gif";
         yesBtn.innerHTML = "No";
         noBtn.innerHTML = "Yes";
