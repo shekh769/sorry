@@ -6,7 +6,7 @@ const noBtn = document.querySelector(".no-btn");
 const btnGrp = document.querySelector(".btn-group");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "I'm SORRY";
+  question.innerHTML = "I'm SORRY Qalbi 🌷";
   gif.src = "images/sorry.png";
   gif.style.height = "300px"; 
 gif.style.width = "400px"; 
